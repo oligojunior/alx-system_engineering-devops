@@ -1,1 +1,1 @@
-new onwner
+execute
