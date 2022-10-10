@@ -21,4 +21,5 @@ solution to task nineteen
 solution to task twenty
 solution to task twenty-one
 solution to task twenty-two
-solution to mandatory task 1
+solution to opitonal task 1
+solution to optional task 2
