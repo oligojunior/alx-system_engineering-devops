@@ -4,4 +4,5 @@ solution to task two
 solution to task three
 solution to task four
 solution to task five
+solution to task six
 
